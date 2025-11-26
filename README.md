@@ -17,6 +17,5 @@ I enjoy learning new technologies, experimenting with ideas, and turning concept
 #### **Fun Facts**
 
 - I love tech, coding, and experimenting with hardware  
-- Tea lover ☕  
 - I enjoy working on AI + IoT based systems  
 - I like keeping things simple, clean, and efficient  
